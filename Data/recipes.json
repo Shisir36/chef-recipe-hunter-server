@@ -1,5 +1,5 @@
 [ {
-    "id": "1",
+    "id": 1,
     "food_id": "109",
     "name": "Teriyaki Chicken",
     "ingredients": {
@@ -18,7 +18,7 @@
   },
   
   {
-    "id": "1",
+    "id": 1,
     "food_id": "109",
     "name": "Okonomiyaki",
     "ingredients": {
@@ -38,7 +38,7 @@
     }
   },
   {
-    "id": "1",
+    "id": 1,
     "food_id": "109",
     "name": "Miso Soup",
     "ingredients": {
@@ -55,7 +55,7 @@
     }
   },
   {
-    "id": "2",
+    "id": 2,
     "food_id": "110",
     "name": "Yakitori",
     "ingredients": {
@@ -72,7 +72,7 @@
     }
     },
     {
-    "id": "2",
+    "id": 2,
     "food_id": "110",
     "name": "Tonkatsu",
     "ingredients": {
@@ -89,7 +89,7 @@
     }
     },
     {
-    "id": "2",
+    "id": 2,
     "food_id": "110",
     "name": "Udon Noodle Soup",
     "ingredients": {
@@ -106,7 +106,7 @@
     }
     },
     {
-        "id": "3",
+        "id": 3,
         "food_id": "011",
         "name": "Okonomiyaki",
         "ingredients": {
@@ -126,7 +126,7 @@
         }
         },
         {
-        "id": "3",
+        "id": 3,
         "food_id": "011",
         "name": "Takoyaki",
         "ingredients": {
@@ -146,7 +146,7 @@
         }
         },
         {
-        "id": "3",
+        "id": 3,
         "food_id": "011",
         "name": "Katsu Curry",
         "ingredients": {
@@ -167,7 +167,7 @@
         }
         },
         {
-            "id": "4",
+            "id": 4,
             "food_id": "012",
             "name": "Tonkatsu",
             "ingredients": {
@@ -184,7 +184,7 @@
             }
             },
             {
-            "id": "4",
+            "id": 4,
             "food_id": "012",
             "name": "Okonomiyaki",
             "ingredients": {
@@ -201,7 +201,7 @@
             }
             },
             {
-            "id": "4",
+            "id": 4,
             "food_id": "012",
             "name": "Udon Noodles",
             "ingredients": {
@@ -218,7 +218,7 @@
             }
             },
             {
-            "id": "5",
+            "id": 5,
             "food_id": "013",
             "name": "Yakitori",
             "ingredients": {
@@ -235,7 +235,7 @@
             }
             },
             {
-            "id": "5",
+            "id": 5,
             "food_id": "013",
             "name": "Okonomiyaki",
             "ingredients": {
@@ -252,7 +252,7 @@
             }
             },
             {
-            "id": "5",
+            "id": 5,
             "food_id": "013",
             "name": "Tonkatsu",
             "ingredients": {
@@ -269,7 +269,7 @@
             }
             },
             {
-                "id": "6",
+                "id": 6,
                 "food_id": "014",
                 "name": "Sukiyaki",
                 "ingredients": {
@@ -290,7 +290,7 @@
                 }
                 },
                 {
-                "id": "6",
+                "id": 6,
                 "food_id": "014",
                 "name": "Okonomiyaki",
                 "ingredients": {
@@ -309,7 +309,7 @@
                 }
                 },
                 {
-                "id": "6",
+                "id": 6,
                 "food_id": "014",
                 "name": "Tonkatsu",
                 "ingredients": {
