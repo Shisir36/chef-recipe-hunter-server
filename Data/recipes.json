@@ -1,0 +1,329 @@
+[ {
+    "id": "1",
+    "food_id": "109",
+    "name": "Teriyaki Chicken",
+    "ingredients": {
+      "1": "chicken thighs",
+      "2": "soy sauce",
+      "3": "sugar",
+      "4": "mirin",
+      "5": "garlic",
+      "6": "ginger"
+    },
+    "cooking method": "Combine soy sauce, sugar, mirin, garlic, and ginger in a bowl. ... Add chicken to the bowl and marinate for at least 31 minutes. ... Heat a grill pan over medium-high heat. ... Add chicken and cook for 5-6 minutes on each side. ... Serve with rice and steamed vegetables.",
+    "rating": {
+      "number": 4.7,
+      "badge": "Excellent"
+    }
+  },
+  
+  {
+    "id": "1",
+    "food_id": "109",
+    "name": "Okonomiyaki",
+    "ingredients": {
+      "1": "cabbage",
+      "2": "flour",
+      "3": "egg",
+      "4": "water",
+      "5": "green onion",
+      "6": "pork belly",
+      "7": "mayonnaise",
+      "8": "okonomiyaki sauce"
+    },
+    "cooking method": "Combine flour, egg, and water in a bowl. ... Add cabbage, green onion, and pork belly to the bowl and mix well. ... Heat a griddle or large skillet over medium heat. ... Add the batter to the griddle and cook for 5-6 minutes on each side. ... Top with mayonnaise and okonomiyaki sauce.",
+    "rating": {
+      "number": 4.4,
+      "badge": "Very Good"
+    }
+  },
+  {
+    "id": "1",
+    "food_id": "109",
+    "name": "Miso Soup",
+    "ingredients": {
+      "1": "dashi",
+      "2": "miso paste",
+      "3": "tofu",
+      "4": "green onion",
+      "5": "seaweed"
+    },
+    "cooking method": "Bring dashi to a simmer in a pot. ... Add miso paste and whisk until fully dissolved. ... Add tofu and simmer for 2-3 minutes. ... Top with green onion and seaweed.",
+    "rating": {
+      "number": 4.3,
+      "badge": "Very Good"
+    }
+  },
+  {
+    "id": "2",
+    "food_id": "110",
+    "name": "Yakitori",
+    "ingredients": {
+    "1": "chicken",
+    "2": "green onion",
+    "3": "soy sauce",
+    "4": "sake",
+    "5": "sugar"
+    },
+    "cooking method": "Cut the chicken into bite-sized pieces and thread onto skewers with sliced green onion. ... Mix together soy sauce, sake, and sugar to make a marinade. ... Brush the marinade onto the skewers and grill until fully cooked.",
+    "rating": {
+    "number": 4.6,
+    "badge": "Excellent"
+    }
+    },
+    {
+    "id": "2",
+    "food_id": "110",
+    "name": "Tonkatsu",
+    "ingredients": {
+    "1": "pork loin",
+    "2": "flour",
+    "3": "egg",
+    "4": "panko breadcrumbs",
+    "5": "vegetable oil"
+    },
+    "cooking method": "Pound the pork loin to tenderize and flatten. ... Coat the pork in flour, then beaten egg, and finally panko breadcrumbs. ... Heat vegetable oil in a pan and fry the pork until golden brown. ... Serve with tonkatsu sauce and shredded cabbage.",
+    "rating": {
+    "number": 4.7,
+    "badge": "Excellent"
+    }
+    },
+    {
+    "id": "2",
+    "food_id": "110",
+    "name": "Udon Noodle Soup",
+    "ingredients": {
+    "1": "udon noodles",
+    "2": "dashi",
+    "3": "soy sauce",
+    "4": "mirin",
+    "5": "scallions"
+    },
+    "cooking method": "Bring dashi to a boil in a pot. ... Add soy sauce and mirin, then reduce heat to a simmer. ... Cook udon noodles separately according to package instructions. ... Drain the noodles and add to the broth. ... Serve hot with sliced scallions.",
+    "rating": {
+    "number": 4.4,
+    "badge": "Very Good"
+    }
+    },
+    {
+        "id": "3",
+        "food_id": "011",
+        "name": "Okonomiyaki",
+        "ingredients": {
+        "1": "flour",
+        "2": "water",
+        "3": "cabbage",
+        "4": "eggs",
+        "5": "bacon",
+        "6": "green onion",
+        "7": "mayonnaise",
+        "8": "okonomiyaki sauce"
+        },
+        "cooking method": "Mix the flour, water, and eggs together in a bowl to make the batter. ... Add the cabbage, bacon, and green onion to the batter. ... Heat a griddle or frying pan and pour the batter onto it. ... Cook the okonomiyaki for a few minutes on each side until golden brown. ... Top with mayonnaise and okonomiyaki sauce before serving.",
+        "rating": {
+        "number": 4.7,
+        "badge": "Excellent"
+        }
+        },
+        {
+        "id": "3",
+        "food_id": "011",
+        "name": "Takoyaki",
+        "ingredients": {
+        "1": "flour",
+        "2": "water",
+        "3": "bonito flakes",
+        "4": "dashi",
+        "5": "octopus",
+        "6": "scallions",
+        "7": "mayonnaise",
+        "8": "takoyaki sauce"
+        },
+        "cooking method": "Mix the flour, water, and dashi together in a bowl to make the batter. ... Heat a takoyaki pan and pour the batter into the molds. ... Add pieces of octopus, bonito flakes, and scallions to each mold. ... Use a skewer to flip the takoyaki as they cook until golden brown on all sides. ... Top with mayonnaise and takoyaki sauce before serving.",
+        "rating": {
+        "number": 4.4,
+        "badge": "Very Good"
+        }
+        },
+        {
+        "id": "3",
+        "food_id": "011",
+        "name": "Katsu Curry",
+        "ingredients": {
+        "1": "chicken breast",
+        "2": "breadcrumbs",
+        "3": "egg",
+        "4": "flour",
+        "5": "onion",
+        "6": "carrot",
+        "7": "potato",
+        "8": "curry powder",
+        "9": "rice"
+        },
+        "cooking method": "Coat the chicken breast in flour, egg, and breadcrumbs. ... Fry the chicken in a pan until golden brown. ... In a separate pan, sauté onions, carrots, and potatoes. ... Add water and curry powder to the vegetables and simmer until the sauce thickens. ... Serve the katsu curry over a bed of rice.",
+        "rating": {
+        "number": 4.6,
+        "badge": "Excellent"
+        }
+        },
+        {
+            "id": "4",
+            "food_id": "012",
+            "name": "Tonkatsu",
+            "ingredients": {
+            "1": "pork cutlet",
+            "2": "flour",
+            "3": "egg",
+            "4": "panko breadcrumbs",
+            "5": "oil"
+            },
+            "cooking method": "Dredge the pork cutlet in flour. ... Dip the cutlet into beaten egg. ... Coat the cutlet in panko breadcrumbs. ... Heat the oil in a frying pan. ... Fry the cutlet until golden brown. ... Serve with tonkatsu sauce and shredded cabbage.",
+            "rating": {
+            "number": 4.7,
+            "badge": "Excellent"
+            }
+            },
+            {
+            "id": "4",
+            "food_id": "012",
+            "name": "Okonomiyaki",
+            "ingredients": {
+            "1": "cabbage",
+            "2": "flour",
+            "3": "water",
+            "4": "egg",
+            "5": "sliced meat or seafood"
+            },
+            "cooking method": "Mix the cabbage, flour, water, and egg together in a bowl. ... Heat a griddle or frying pan over medium heat. ... Pour the mixture onto the griddle or pan and add sliced meat or seafood on top. ... Cook until the bottom is golden brown. ... Flip and cook the other side. ... Serve with okonomiyaki sauce, mayonnaise, and dried bonito flakes.",
+            "rating": {
+            "number": 4.6,
+            "badge": "Excellent"
+            }
+            },
+            {
+            "id": "4",
+            "food_id": "012",
+            "name": "Udon Noodles",
+            "ingredients": {
+            "1": "udon noodles",
+            "2": "broth",
+            "3": "meat or tofu",
+            "4": "vegetables",
+            "5": "egg"
+            },
+            "cooking method": "Cook the udon noodles according to the package instructions. ... In a separate pot, heat the broth and add the meat or tofu and vegetables. ... Simmer until the vegetables are tender. ... Add the cooked noodles to the pot and mix well. ... Beat the egg and pour it into the pot, stirring gently. ... Serve hot.",
+            "rating": {
+            "number": 4.4,
+            "badge": "Very Good"
+            }
+            },
+            {
+            "id": "5",
+            "food_id": "013",
+            "name": "Yakitori",
+            "ingredients": {
+            "1": "chicken",
+            "2": "soy sauce",
+            "3": "sake",
+            "4": "mirin",
+            "5": "green onion"
+            },
+            "cooking method": "Cut the chicken into bite-sized pieces. ... Skewer the chicken pieces onto bamboo skewers. ... Mix together the soy sauce, sake, and mirin to make the marinade. ... Grill the chicken skewers over high heat, basting with the marinade. ... Top with chopped green onion and serve hot.",
+            "rating": {
+            "number": 4.6,
+            "badge": "Excellent"
+            }
+            },
+            {
+            "id": "5",
+            "food_id": "013",
+            "name": "Okonomiyaki",
+            "ingredients": {
+            "1": "flour",
+            "2": "water",
+            "3": "cabbage",
+            "4": "pork belly",
+            "5": "eggs"
+            },
+            "cooking method": "Mix together the flour and water to make the batter. ... Add shredded cabbage and sliced pork belly to the batter. ... Pour the batter onto a hot griddle and cook until golden brown. ... Flip the okonomiyaki and cook until the other side is golden brown. ... Top with a fried egg and okonomiyaki sauce.",
+            "rating": {
+            "number": 4.4,
+            "badge": "Very Good"
+            }
+            },
+            {
+            "id": "5",
+            "food_id": "013",
+            "name": "Tonkatsu",
+            "ingredients": {
+            "1": "pork loin",
+            "2": "flour",
+            "3": "eggs",
+            "4": "panko bread crumbs",
+            "5": "vegetable oil"
+            },
+            "cooking method": "Season the pork loin with salt and pepper. ... Coat the pork in flour, then beaten eggs, and finally panko bread crumbs. ... Heat vegetable oil in a deep fryer or pot. ... Fry the pork until golden brown and crispy. ... Serve with tonkatsu sauce and shredded cabbage.",
+            "rating": {
+            "number": 4.7,
+            "badge": "Excellent"
+            }
+            },
+            {
+                "id": "6",
+                "food_id": "014",
+                "name": "Sukiyaki",
+                "ingredients": {
+                "1": "thinly sliced beef",
+                "2": "tofu",
+                "3": "shiitake mushrooms",
+                "4": "noodles",
+                "5": "green onion",
+                "6": "sugar",
+                "7": "soy sauce",
+                "8": "sake",
+                "9": "mirin"
+                },
+                "cooking method": "Heat a large pot or skillet over medium heat. ... Add the beef and cook until browned. ... Add the tofu, mushrooms, and noodles. ... In a separate bowl, mix together sugar, soy sauce, sake, and mirin. ... Add the mixture to the pot and bring to a boil. ... Serve in bowls topped with sliced green onion.",
+                "rating": {
+                "number": 4.7,
+                "badge": "Excellent"
+                }
+                },
+                {
+                "id": "6",
+                "food_id": "014",
+                "name": "Okonomiyaki",
+                "ingredients": {
+                "1": "flour",
+                "2": "cabbage",
+                "3": "eggs",
+                "4": "bacon",
+                "5": "green onion",
+                "6": "mayonnaise",
+                "7": "okonomiyaki sauce"
+                },
+                "cooking method": "Mix together flour, eggs, and water to create batter. ... Add shredded cabbage and mix well. ... Heat a skillet over medium heat and pour the batter onto the skillet. ... Add bacon on top. ... Flip the okonomiyaki and cook until browned on both sides. ... Top with mayonnaise, okonomiyaki sauce, and green onion.",
+                "rating": {
+                "number": 4.4,
+                "badge": "Very Good"
+                }
+                },
+                {
+                "id": "6",
+                "food_id": "014",
+                "name": "Tonkatsu",
+                "ingredients": {
+                "1": "pork loin",
+                "2": "flour",
+                "3": "eggs",
+                "4": "panko bread crumbs",
+                "5": "cabbage",
+                "6": "tonkatsu sauce"
+                },
+                "cooking method": "Season pork loin with salt and pepper. ... Coat the pork in flour, eggs, and panko bread crumbs. ... Heat oil in a skillet and cook the pork until golden brown. ... Cut into slices and serve with shredded cabbage and tonkatsu sauce.",
+                "rating": {
+                "number": 4.6,
+                "badge": "Excellent"
+                }
+                }
+  ]

@@ -1,0 +1,53 @@
+{
+    "japanese_chefs": [
+      {  "id": 1,
+        "chef_picture": "https://images.unsplash.com/photo-1562514155-444b9a967dfa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "chef_name": "Masaharu Morimoto",
+        "years_of_experience": 25,
+        "number_of_recipes": 800,
+        "likes": 35000,
+        "chef_bio": "Masaharu Morimoto is a Japanese chef, best known as the star of the television show Iron Chef and Iron Chef America. He has also opened several successful restaurants, including Morimoto in New York City."
+      },
+      { "id": 2,
+        "chef_picture": "https://images.unsplash.com/photo-1666770709661-581f2a1f6c0c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "chef_name": "Nobu Matsuhisa",
+        "years_of_experience": 30,
+        "number_of_recipes": 1000,
+        "likes": 50000,
+        "chef_bio": "Nobu Matsuhisa is a Japanese chef and restaurateur, known for his fusion cuisine blending traditional Japanese dishes with South American ingredients. He has several successful restaurants around the world, including Nobu in New York City."
+      },
+      { "id": 3,
+        "chef_picture": "https://images.unsplash.com/photo-1576237680582-75be01432ca6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "chef_name": "Yoshihiro Murata",
+        "years_of_experience": 40,
+        "number_of_recipes": 700,
+        "likes": 30000,
+        "chef_bio": "Yoshihiro Murata is a Japanese chef and owner of the Michelin-starred restaurant Kikunoi in Kyoto, Japan. He is known for his traditional Japanese cuisine and dedication to preserving culinary traditions."
+      },
+      { "id": 4,
+        "chef_picture": "https://images.unsplash.com/photo-1609558531790-ec0fe1237631?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "chef_name": "Hiroyuki Sakai",
+        "years_of_experience": 35,
+        "number_of_recipes": 500,
+        "likes": 25000,
+        "chef_bio": "Hiroyuki Sakai is a Japanese chef and Iron Chef on the Japanese television show Iron Chef. He is known for his French-influenced cuisine and has several successful restaurants in Japan."
+      },
+      { "id": 5,
+        "chef_picture": "https://images.unsplash.com/photo-1609053211574-186ad46bb212?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2071&q=80",
+        "chef_name": "Tetsuya Wakuda",
+        "years_of_experience": 30,
+        "number_of_recipes": 400,
+        "likes": 20000,
+        "chef_bio": "Tetsuya Wakuda is a Japanese-born Australian chef and owner of the award-winning restaurant Tetsuya's in Sydney, Australia. He is known for his fusion cuisine blending Japanese and French techniques and ingredients."
+      },
+      { "id": 6,
+        "chef_picture": "https://images.unsplash.com/photo-1502364271109-0a9a75a2a9df?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "chef_name": "Hironori Ikeno",
+        "years_of_experience": 20,
+        "number_of_recipes": 150,
+        "likes": 40000,
+        "chef_bio": "Hironori Ikeno is a Japanese chef and owner of the Michelin-starred restaurant Hironori in Tokyo, Japan. He is known for his innovative and creative approach to traditional Japanese cuisine."
+      }
+    ]
+  }
+  
