@@ -11,6 +11,15 @@ res.send("data is coming")
 app.get("/chef", (req, res) => {
     res.send(chefData)
 })
+app.get("/chef/:id", (req, res) => {
+    const id = parseInt(req.params.id);
+    const Chefs = chefData.find((c) => c.id === id);
+    if (Chefs) {
+      res.send(Chefs);
+    } else {
+      res.status(404).send("Recipe not found");
+    }
+  });
 app.get("/recipes", (req, res) => {
     res.send(recipes)
 })

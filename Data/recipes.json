@@ -1,15 +1,4 @@
 [ 
-    
-{  
-"id": 1,
-"food_id": "109",
-"chef_picture": "https://images.unsplash.com/photo-1562514155-444b9a967dfa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-"chef_name": "Masaharu Morimoto",
-"years_of_experience": 25,
-"number_of_recipes": 800,
-"likes": 35000,
-"chef_bio": "Masaharu Morimoto is a Japanese chef, best known as the star of the television show Iron Chef and Iron Chef America. He has also opened several successful restaurants, including Morimoto in New York City."
-},
 {
     "id": 1,
     "food_id": "109",
@@ -22,16 +11,17 @@
       "5": "garlic",
       "6": "ginger"
     },
-    "cooking method": "Combine soy sauce, sugar, mirin, garlic, and ginger in a bowl. ... Add chicken to the bowl and marinate for at least 31 minutes. ... Heat a grill pan over medium-high heat. ... Add chicken and cook for 5-6 minutes on each side. ... Serve with rice and steamed vegetables.",
+    "method": "Combine soy sauce, sugar, mirin, garlic, and ginger in a bowl. ... Add chicken to the bowl and marinate for at least 31 minutes. ... Heat a grill pan over medium-high heat. ... Add chicken and cook for 5-6 minutes on each side. ... Serve with rice and steamed vegetables.",
     "rating": {
       "number": 4.7,
       "badge": "Excellent"
-    }
+    },
+    "recipe_picture": "https://images.unsplash.com/photo-1515669097368-22e68427d265?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
   },
   
   {
     "id": 1,
-    "food_id": "109",
+    "food_id": "110",
     "name": "Okonomiyaki",
     "ingredients": {
       "1": "cabbage",
@@ -43,15 +33,16 @@
       "7": "mayonnaise",
       "8": "okonomiyaki sauce"
     },
-    "cooking method": "Combine flour, egg, and water in a bowl. ... Add cabbage, green onion, and pork belly to the bowl and mix well. ... Heat a griddle or large skillet over medium heat. ... Add the batter to the griddle and cook for 5-6 minutes on each side. ... Top with mayonnaise and okonomiyaki sauce.",
+    "method": "Combine flour, egg, and water in a bowl. ... Add cabbage, green onion, and pork belly to the bowl and mix well. ... Heat a griddle or large skillet over medium heat. ... Add the batter to the griddle and cook for 5-6 minutes on each side. ... Top with mayonnaise and okonomiyaki sauce.",
     "rating": {
       "number": 4.4,
       "badge": "Very Good"
-    }
+    },
+    "recipe_picture": "https://images.unsplash.com/photo-1629579436553-6b34e5ddd9de?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
   },
   {
     "id": 1,
-    "food_id": "109",
+    "food_id": "111",
     "name": "Miso Soup",
     "ingredients": {
       "1": "dashi",
@@ -60,24 +51,16 @@
       "4": "green onion",
       "5": "seaweed"
     },
-    "cooking method": "Bring dashi to a simmer in a pot. ... Add miso paste and whisk until fully dissolved. ... Add tofu and simmer for 2-3 minutes. ... Top with green onion and seaweed.",
+    "method": "Bring dashi to a simmer in a pot. ... Add miso paste and whisk until fully dissolved. ... Add tofu and simmer for 2-3 minutes. ... Top with green onion and seaweed.",
     "rating": {
       "number": 4.3,
       "badge": "Very Good"
-    }
+    },
+    "recipe_picture": "https://images.unsplash.com/photo-1548943487-a2e4e43b4853?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
   },
-  { "id": 2,
-  "food_id": "110",
-  "chef_picture": "https://images.unsplash.com/photo-1666770709661-581f2a1f6c0c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-  "chef_name": "Nobu Matsuhisa",
-  "years_of_experience": 30,
-  "number_of_recipes": 1000,
-  "likes": 50000,
-  "chef_bio": "Nobu Matsuhisa is a Japanese chef and restaurateur, known for his fusion cuisine blending traditional Japanese dishes with South American ingredients. He has several successful restaurants around the world, including Nobu in New York City."
-},
   {
     "id": 2,
-    "food_id": "110",
+    "food_id": "112",
     "name": "Yakitori",
     "ingredients": {
     "1": "chicken",
@@ -86,15 +69,16 @@
     "4": "sake",
     "5": "sugar"
     },
-    "cooking method": "Cut the chicken into bite-sized pieces and thread onto skewers with sliced green onion. ... Mix together soy sauce, sake, and sugar to make a marinade. ... Brush the marinade onto the skewers and grill until fully cooked.",
+    "method": "Cut the chicken into bite-sized pieces and thread onto skewers with sliced green onion. ... Mix together soy sauce, sake, and sugar to make a marinade. ... Brush the marinade onto the skewers and grill until fully cooked.",
     "rating": {
     "number": 4.6,
     "badge": "Excellent"
-    }
+    },
+    "recipe_picture": "https://images.unsplash.com/photo-1563118946-9d60eae4a82d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
     },
     {
     "id": 2,
-    "food_id": "110",
+    "food_id": "113",
     "name": "Tonkatsu",
     "ingredients": {
     "1": "pork loin",
@@ -103,11 +87,12 @@
     "4": "panko breadcrumbs",
     "5": "vegetable oil"
     },
-    "cooking method": "Pound the pork loin to tenderize and flatten. ... Coat the pork in flour, then beaten egg, and finally panko breadcrumbs. ... Heat vegetable oil in a pan and fry the pork until golden brown. ... Serve with tonkatsu sauce and shredded cabbage.",
+    "method": "Pound the pork loin to tenderize and flatten. ... Coat the pork in flour, then beaten egg, and finally panko breadcrumbs. ... Heat vegetable oil in a pan and fry the pork until golden brown. ... Serve with tonkatsu sauce and shredded cabbage.",
     "rating": {
     "number": 4.7,
     "badge": "Excellent"
-    }
+    },
+    "recipe_picture": "https://images.unsplash.com/photo-1644037423703-e4a8e979fcf0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
     },
     {
     "id": 2,
@@ -120,20 +105,13 @@
     "4": "mirin",
     "5": "scallions"
     },
-    "cooking method": "Bring dashi to a boil in a pot. ... Add soy sauce and mirin, then reduce heat to a simmer. ... Cook udon noodles separately according to package instructions. ... Drain the noodles and add to the broth. ... Serve hot with sliced scallions.",
+    "method": "Bring dashi to a boil in a pot. ... Add soy sauce and mirin, then reduce heat to a simmer. ... Cook udon noodles separately according to package instructions. ... Drain the noodles and add to the broth. ... Serve hot with sliced scallions.",
     "rating": {
     "number": 4.4,
     "badge": "Very Good"
-    }
-    }, { "id": 3,
-    "food_id": "011",
-    "chef_picture": "https://images.unsplash.com/photo-1576237680582-75be01432ca6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-    "chef_name": "Yoshihiro Murata",
-    "years_of_experience": 40,
-    "number_of_recipes": 700,
-    "likes": 30000,
-    "chef_bio": "Yoshihiro Murata is a Japanese chef and owner of the Michelin-starred restaurant Kikunoi in Kyoto, Japan. He is known for his traditional Japanese cuisine and dedication to preserving culinary traditions."
-  },
+    },
+    "recipe_picture": "https://images.unsplash.com/photo-1571478601279-7268c1f57439?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80"
+    },
     {
         "id": 3,
         "food_id": "011",
@@ -148,22 +126,34 @@
         "7": "mayonnaise",
         "8": "okonomiyaki sauce"
         },
-        "cooking method": "Mix the flour, water, and eggs together in a bowl to make the batter. ... Add the cabbage, bacon, and green onion to the batter. ... Heat a griddle or frying pan and pour the batter onto it. ... Cook the okonomiyaki for a few minutes on each side until golden brown. ... Top with mayonnaise and okonomiyaki sauce before serving.",
+        "method": "Mix the flour, water, and eggs together in a bowl to make the batter. ... Add the cabbage, bacon, and green onion to the batter. ... Heat a griddle or frying pan and pour the batter onto it. ... Cook the okonomiyaki for a few minutes on each side until golden brown. ... Top with mayonnaise and okonomiyaki sauce before serving.",
         "rating": {
         "number": 4.7,
         "badge": "Excellent"
-        }
+        },
+        "recipe_picture": "https://images.unsplash.com/photo-1648221825803-4e02a95bf062?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
         },
         {
         "id": 3,
         "food_id": "011",
         "name": "Takoyaki",
-        "ingredients": "flour, water, bonito flakes, dashi, octopus, scallions, mayonnaise, takoyaki sauce",
-        "cooking method": "Mix the flour, water, and dashi together in a bowl to make the batter. ... Heat a takoyaki pan and pour the batter into the molds. ... Add pieces of octopus, bonito flakes, and scallions to each mold. ... Use a skewer to flip the takoyaki as they cook until golden brown on all sides. ... Top with mayonnaise and takoyaki sauce before serving.",
+        "ingredients": {
+            "1": "flour",
+            "2": "water",
+            "3": "bonito flakes",
+            "4": "dashi",
+            "5": "octopus",
+            "6": "scallions",
+            "7": "mayonnaise",
+            "8": "takoyaki sauce"
+        }
+        ,
+        "method": "Mix the flour, water, and dashi together in a bowl to make the batter. ... Heat a takoyaki pan and pour the batter into the molds. ... Add pieces of octopus, bonito flakes, and scallions to each mold. ... Use a skewer to flip the takoyaki as they cook until golden brown on all sides. ... Top with mayonnaise and takoyaki sauce before serving.",
         "rating": {
         "number": 4.4,
         "badge": "Very Good"
-        }
+        },
+        "recipe_picture": "https://images.unsplash.com/photo-1648389375553-cd95505f5729?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
         },
         {
         "id": 3,
@@ -180,25 +170,17 @@
         "8": "curry powder",
         "9": "rice"
         },
-        "cooking method": "Coat the chicken breast in flour, egg, and breadcrumbs. ... Fry the chicken in a pan until golden brown. ... In a separate pan, sauté onions, carrots, and potatoes. ... Add water and curry powder to the vegetables and simmer until the sauce thickens. ... Serve the katsu curry over a bed of rice.",
+        "method": "Coat the chicken breast in flour, egg, and breadcrumbs. ... Fry the chicken in a pan until golden brown. ... In a separate pan, sauté onions, carrots, and potatoes. ... Add water and curry powder to the vegetables and simmer until the sauce thickens. ... Serve the katsu curry over a bed of rice.",
         "rating": {
         "number": 4.6,
         "badge": "Excellent"
-        }
         },
-        { "id": 4,
-        "food_id": "012",
-        "chef_picture": "https://images.unsplash.com/photo-1609558531790-ec0fe1237631?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-        "chef_name": "Hiroyuki Sakai",
-        "years_of_experience": 35,
-        "number_of_recipes": 500,
-        "likes": 25000,
-        "chef_bio": "Hiroyuki Sakai is a Japanese chef and Iron Chef on the Japanese television show Iron Chef. He is known for his French-influenced cuisine and has several successful restaurants in Japan."
-      },
+        "recipe_picture": "https://images.unsplash.com/photo-1627366422957-3efa9c6df0fc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+        },
         {
             "id": 4,
             "food_id": "012",
-            "name": "Tonkatsu",
+            "name": "Tofu",
             "ingredients": {
             "1": "pork cutlet",
             "2": "flour",
@@ -206,16 +188,17 @@
             "4": "panko breadcrumbs",
             "5": "oil"
             },
-            "cooking method": "Dredge the pork cutlet in flour. ... Dip the cutlet into beaten egg. ... Coat the cutlet in panko breadcrumbs. ... Heat the oil in a frying pan. ... Fry the cutlet until golden brown. ... Serve with tonkatsu sauce and shredded cabbage.",
+            "method": "Dredge the pork cutlet in flour. ... Dip the cutlet into beaten egg. ... Coat the cutlet in panko breadcrumbs. ... Heat the oil in a frying pan. ... Fry the cutlet until golden brown. ... Serve with tonkatsu sauce and shredded cabbage.",
             "rating": {
             "number": 4.7,
             "badge": "Excellent"
-            }
+            },
+            "recipe_picture": "https://images.unsplash.com/photo-1645295659958-88787b48fd03?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80"
             },
             {
             "id": 4,
             "food_id": "012",
-            "name": "Okonomiyaki",
+            "name": "Udon",
             "ingredients": {
             "1": "cabbage",
             "2": "flour",
@@ -223,11 +206,12 @@
             "4": "egg",
             "5": "sliced meat or seafood"
             },
-            "cooking method": "Mix the cabbage, flour, water, and egg together in a bowl. ... Heat a griddle or frying pan over medium heat. ... Pour the mixture onto the griddle or pan and add sliced meat or seafood on top. ... Cook until the bottom is golden brown. ... Flip and cook the other side. ... Serve with okonomiyaki sauce, mayonnaise, and dried bonito flakes.",
+            "method": "In a large mixing bowl, combine flour and salt. Add 1 1/4 cups water. Use hands to mix until dough starts to come together in a few large lumps. Firmly press and knead the dough, incorporating any loose flour until there is none left. If necessary, add a little more water, 1 tablespoon at a time, until you can incorporate all of the flour.",
             "rating": {
             "number": 4.6,
             "badge": "Excellent"
-            }
+            },
+            "recipe_picture": "https://images.unsplash.com/photo-1632381151399-cf5877736890?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80"
             },
             {
             "id": 4,
@@ -240,81 +224,69 @@
             "4": "vegetables",
             "5": "egg"
             },
-            "cooking method": "Cook the udon noodles according to the package instructions. ... In a separate pot, heat the broth and add the meat or tofu and vegetables. ... Simmer until the vegetables are tender. ... Add the cooked noodles to the pot and mix well. ... Beat the egg and pour it into the pot, stirring gently. ... Serve hot.",
+            "method": "Cook the udon noodles according to the package instructions. ... In a separate pot, heat the broth and add the meat or tofu and vegetables. ... Simmer until the vegetables are tender. ... Add the cooked noodles to the pot and mix well. ... Beat the egg and pour it into the pot, stirring gently. ... Serve hot.",
             "rating": {
             "number": 4.4,
             "badge": "Very Good"
-            }
             },
-            { "id": 5,
-            "chef_picture": "https://images.unsplash.com/photo-1609053211574-186ad46bb212?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2071&q=80",
-            "chef_name": "Tetsuya Wakuda",
-            "years_of_experience": 30,
-            "number_of_recipes": 400,
-            "likes": 20000,
-            "chef_bio": "Tetsuya Wakuda is a Japanese-born Australian chef and owner of the award-winning restaurant Tetsuya's in Sydney, Australia. He is known for his fusion cuisine blending Japanese and French techniques and ingredients."
-          },
-            {
-            "id": 5,
-            "food_id": "013",
-            "name": "Yakitori",
-            "ingredients": {
-            "1": "chicken",
-            "2": "soy sauce",
-            "3": "sake",
-            "4": "mirin",
-            "5": "green onion"
-            },
-            "cooking method": "Cut the chicken into bite-sized pieces. ... Skewer the chicken pieces onto bamboo skewers. ... Mix together the soy sauce, sake, and mirin to make the marinade. ... Grill the chicken skewers over high heat, basting with the marinade. ... Top with chopped green onion and serve hot.",
-            "rating": {
-            "number": 4.6,
-            "badge": "Excellent"
-            }
+            "recipe_picture": "https://images.unsplash.com/photo-1515669097368-22e68427d265?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
             },
             {
-            "id": 5,
-            "food_id": "013",
-            "name": "Okonomiyaki",
-            "ingredients": {
-            "1": "flour",
-            "2": "water",
-            "3": "cabbage",
-            "4": "pork belly",
-            "5": "eggs"
-            },
-            "cooking method": "Mix together the flour and water to make the batter. ... Add shredded cabbage and sliced pork belly to the batter. ... Pour the batter onto a hot griddle and cook until golden brown. ... Flip the okonomiyaki and cook until the other side is golden brown. ... Top with a fried egg and okonomiyaki sauce.",
-            "rating": {
-            "number": 4.4,
-            "badge": "Very Good"
-            }
-            },
+                "id": 5,
+                "food_id": "013",
+                "name": "Sushi Roll",
+                "ingredients": {
+                    "1": "sushi rice",
+                    "2": "nori",
+                    "3": "raw fish or vegetables",
+                    "4": "wasabi",
+                    "5": "soy sauce"
+                },
+                "method": "Place a sheet of nori on a sushi mat. Spread sushi rice evenly over the nori, leaving a 1-inch border at the top. Place raw fish or vegetables in a line in the center of the rice. Roll the sushi tightly using the mat. Serve with wasabi and soy sauce.",
+                "rating": {
+                    "number": 4.8,
+                    "badge": "Excellent"
+                },
+                "recipe_picture": "https://images.unsplash.com/photo-1583623025817-d180a2221d0a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80"
+            },            
             {
-            "id": 5,
-            "food_id": "013",
-            "name": "Tonkatsu",
-            "ingredients": {
-            "1": "pork loin",
-            "2": "flour",
-            "3": "eggs",
-            "4": "panko bread crumbs",
-            "5": "vegetable oil"
+                "id": 5,
+                "food_id": "013",
+                "name": "Strawberry Mochi",
+                "ingredients": {
+                "1": "sweet glutinous rice flour",
+                "2": "sugar",
+                "3": "water",
+                "4": "potato starch",
+                "5": "strawberries"
+                },
+                "method": "Mix sweet glutinous rice flour and sugar in a bowl. Gradually add water while stirring until a dough is formed. Roll out the dough and cut into small pieces. Dust the pieces with potato starch. Flatten each piece and place a strawberry in the center. Fold the dough around the strawberry and pinch to seal. Steam the mochi for 10-15 minutes. Serve warm.",
+                "rating": {
+                "number": 4.5,
+                "badge": "Great"
+                },
+                "recipe_picture": "https://images.unsplash.com/photo-1515968270336-3e94abcdac1a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+                },           
+                {
+                "id": 5,
+                "food_id": "013",
+                "name": "Soba Noodles",
+                "ingredients": {
+                "1": "soba noodles",
+                "2": "soy sauce",
+                "3": "mirin",
+                "4": "sugar",
+                "5": "wasabi",
+                "6": "scallions",
+                "7": "nori seaweed"
+                },
+                "method": "Cook soba noodles according to package instructions. In a small bowl, mix together soy sauce, mirin, and sugar to make the dipping sauce. Serve the noodles with the dipping sauce, wasabi, sliced scallions, and crumbled nori seaweed.",
+                "rating": {
+                "number": 4.6,
+                "badge": "Excellent"
+                },
+                "recipe_picture": "https://images.unsplash.com/photo-1519984388953-d2406bc725e1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80"
             },
-            "cooking method": "Season the pork loin with salt and pepper. ... Coat the pork in flour, then beaten eggs, and finally panko bread crumbs. ... Heat vegetable oil in a deep fryer or pot. ... Fry the pork until golden brown and crispy. ... Serve with tonkatsu sauce and shredded cabbage.",
-            "rating": {
-            "number": 4.7,
-            "badge": "Excellent"
-            }
-            },
-            { 
-        "id": 6,
-       "food_id": "014",
-        "chef_picture": "https://images.unsplash.com/photo-1502364271109-0a9a75a2a9df?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-        "chef_name": "Hironori Ikeno",
-        "years_of_experience": 20,
-        "number_of_recipes": 150,
-        "likes": 40000,
-        "chef_bio": "Hironori Ikeno is a Japanese chef and owner of the Michelin-starred restaurant Hironori in Tokyo, Japan. He is known for his innovative and creative approach to traditional Japanese cuisine."
-      },
             {
                 "id": 6,
                 "food_id": "014",
@@ -330,47 +302,55 @@
                 "8": "sake",
                 "9": "mirin"
                 },
-                "cooking method": "Heat a large pot or skillet over medium heat. ... Add the beef and cook until browned. ... Add the tofu, mushrooms, and noodles. ... In a separate bowl, mix together sugar, soy sauce, sake, and mirin. ... Add the mixture to the pot and bring to a boil. ... Serve in bowls topped with sliced green onion.",
+                "method": "Heat a large pot or skillet over medium heat. ... Add the beef and cook until browned. ... Add the tofu, mushrooms, and noodles. ... In a separate bowl, mix together sugar, soy sauce, sake, and mirin. ... Add the mixture to the pot and bring to a boil. ... Serve in bowls topped with sliced green onion.",
                 "rating": {
                 "number": 4.7,
                 "badge": "Excellent"
-                }
+                },
+                "recipe_picture": "https://images.unsplash.com/photo-1648977555545-4dd006e30d3f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
                 },
                 {
-                "id": 6,
-                "food_id": "014",
-                "name": "Okonomiyaki",
-                "ingredients": {
-                "1": "flour",
-                "2": "cabbage",
-                "3": "eggs",
-                "4": "bacon",
-                "5": "green onion",
-                "6": "mayonnaise",
-                "7": "okonomiyaki sauce"
-                },
-                "cooking method": "Mix together flour, eggs, and water to create batter. ... Add shredded cabbage and mix well. ... Heat a skillet over medium heat and pour the batter onto the skillet. ... Add bacon on top. ... Flip the okonomiyaki and cook until browned on both sides. ... Top with mayonnaise, okonomiyaki sauce, and green onion.",
-                "rating": {
-                "number": 4.4,
-                "badge": "Very Good"
+                    "id": 6,
+                    "food_id": "014",
+                    "name": "Matcha",
+                    "ingredients": {
+                      "1": "matcha powder",
+                      "2": "hot water",
+                      "3": "milk",
+                      "4": "sugar"
+                    },
+                    "method": "Sift the matcha powder into a bowl. ... Add hot water and whisk until smooth and frothy. ... Heat milk in a saucepan until steaming. ... Add sugar to taste. ... Pour the matcha into a cup and top with the steamed milk. ... Stir gently and enjoy!",
+                    "rating": {
+                      "number": 4.8,
+                      "badge": "Excellent"
+                    },
+                    "recipe_picture": "https://images.unsplash.com/photo-1515823064-d6e0c04616a7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80"
+                  },
+                  {
+                    "id": 6,
+                    "food_id": "014",
+                    "name": "Chicken Teriyaki Donburi",
+                    "ingredients": {
+                        "1": "chicken thighs",
+                        "2": "soy sauce",
+                        "3": "mirin",
+                        "4": "sugar",
+                        "5": "rice vinegar",
+                        "6": "ginger",
+                        "7": "garlic",
+                        "8": "cornstarch",
+                        "9": "water",
+                        "10": "cooked rice",
+                        "11": "steamed broccoli",
+                        "12": "green onions"
+                    },
+                    "method": "In a saucepan, combine soy sauce, mirin, sugar, rice vinegar, ginger, and garlic. Bring to a boil and then reduce heat to a simmer. In a separate bowl, mix cornstarch and water to create a slurry. Add the slurry to the saucepan and stir until thickened. Set aside. Season chicken thighs with salt and pepper. Heat a skillet over medium-high heat and cook the chicken until browned and cooked through. Add the teriyaki sauce to the skillet and toss to coat the chicken. Serve the chicken and sauce over a bed of cooked rice, with steamed broccoli and sliced green onions as toppings.",
+                    "rating": {
+                        "number": 4.8,
+                        "badge": "Excellent"
+                    },
+                    "recipe_picture": " https://images.unsplash.com/photo-1529065973568-41540b11f7de?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
                 }
-                },
-                {
-                "id": 6,
-                "food_id": "014",
-                "name": "Tonkatsu",
-                "ingredients": {
-                "1": "pork loin",
-                "2": "flour",
-                "3": "eggs",
-                "4": "panko bread crumbs",
-                "5": "cabbage",
-                "6": "tonkatsu sauce"
-                },
-                "cooking method": "Season pork loin with salt and pepper. ... Coat the pork in flour, eggs, and panko bread crumbs. ... Heat oil in a skillet and cook the pork until golden brown. ... Cut into slices and serve with shredded cabbage and tonkatsu sauce.",
-                "rating": {
-                "number": 4.6,
-                "badge": "Excellent"
-                }
-                }
+                               
   ]
+ 
