@@ -96,7 +96,7 @@
     },
     {
     "id": 2,
-    "food_id": "110",
+    "food_id": "114",
     "name": "Udon Noodle Soup",
     "ingredients": {
     "1": "udon noodles",
@@ -114,7 +114,7 @@
     },
     {
         "id": 3,
-        "food_id": "011",
+        "food_id": "115",
         "name": "Okonomiyaki",
         "ingredients": {
         "1": "flour",
@@ -135,7 +135,7 @@
         },
         {
         "id": 3,
-        "food_id": "011",
+        "food_id": "016",
         "name": "Takoyaki",
         "ingredients": {
             "1": "flour",
@@ -157,7 +157,7 @@
         },
         {
         "id": 3,
-        "food_id": "011",
+        "food_id": "017",
         "name": "Katsu Curry",
         "ingredients": {
         "1": "chicken breast",
@@ -179,7 +179,7 @@
         },
         {
             "id": 4,
-            "food_id": "012",
+            "food_id": "018",
             "name": "Tofu",
             "ingredients": {
             "1": "pork cutlet",
@@ -197,7 +197,7 @@
             },
             {
             "id": 4,
-            "food_id": "012",
+            "food_id": "019",
             "name": "Udon",
             "ingredients": {
             "1": "cabbage",
@@ -215,7 +215,7 @@
             },
             {
             "id": 4,
-            "food_id": "012",
+            "food_id": "020",
             "name": "Udon Noodles",
             "ingredients": {
             "1": "udon noodles",
@@ -233,7 +233,7 @@
             },
             {
                 "id": 5,
-                "food_id": "013",
+                "food_id": "021",
                 "name": "Sushi Roll",
                 "ingredients": {
                     "1": "sushi rice",
@@ -251,7 +251,7 @@
             },            
             {
                 "id": 5,
-                "food_id": "013",
+                "food_id": "125",
                 "name": "Strawberry Mochi",
                 "ingredients": {
                 "1": "sweet glutinous rice flour",
@@ -269,7 +269,7 @@
                 },           
                 {
                 "id": 5,
-                "food_id": "013",
+                "food_id": "785",
                 "name": "Soba Noodles",
                 "ingredients": {
                 "1": "soba noodles",
@@ -289,7 +289,7 @@
             },
             {
                 "id": 6,
-                "food_id": "014",
+                "food_id": "056",
                 "name": "Sukiyaki",
                 "ingredients": {
                 "1": "thinly sliced beef",
@@ -311,7 +311,7 @@
                 },
                 {
                     "id": 6,
-                    "food_id": "014",
+                    "food_id": "025",
                     "name": "Matcha",
                     "ingredients": {
                       "1": "matcha powder",
@@ -328,7 +328,7 @@
                   },
                   {
                     "id": 6,
-                    "food_id": "014",
+                    "food_id": "017",
                     "name": "Chicken Teriyaki Donburi",
                     "ingredients": {
                         "1": "chicken thighs",
